@@ -82,5 +82,5 @@ var DIALOG = `<div class="mDialog ds-none w-editor-access" id="CrossCitationModu
         </div>
     </div>
 </div>`;
-console.log('eeee');
+//console.log('eeee');
 //appDiv.appendChild(DIALOG);
